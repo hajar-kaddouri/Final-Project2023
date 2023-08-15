@@ -1,9 +1,9 @@
 # Final-Project2023
 ![image](https://github.com/hajar-kaddouri/Final-Project2023/assets/125761572/6931c387-4b06-423c-befd-674e65cece36)
-                            A Deep Dive into Advanced Anomaly Detection Techniques
+                           
 
 
-### Comprehensive Anomaly Detection Framework (CADF-2)
+###                                 Comprehensive Anomaly Detection Framework (CADF-2)
 # Overview
 The Comprehensive Anomaly Detection Framework 2 (ComprehensiveAnomalyDetection2) is designed with OOP to identify anomalies in transactional data. It leverages various statistical and machine learning techniques, including rolling statistics, KMeans clustering, and ensemble models, to efficiently detect unusual patterns.
 
