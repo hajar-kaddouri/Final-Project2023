@@ -56,8 +56,15 @@ from the previous 2 approaches I create a new column that included the label tha
 
 Uses ensemble models like Random Forest and Gradient Boosting Trees to identify anomalies. SMOTE oversampling is applied to the training data to address class imbalance.
 
-5- Conclusion :
+# Conclusion :
 
 
 ![image](https://github.com/hajar-kaddouri/Final-Project2023/assets/125761572/7ef91d5e-ca05-4756-9611-fe4d438cda86)
 
+# Future Work
+
+- Applying advanced neural networks.
+- Integration with real-time data streams.
+- Further fine-tuning of hyperparameters.
+
+  ***Open for any queries, discussions, or collaborations ** 
